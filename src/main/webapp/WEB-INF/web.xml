@@ -4,6 +4,7 @@
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee webapp_4_0.xsd"
          version="4.0">
     <display-name>SQLCmd</display-name>
+
     <servlet>
         <servlet-name>MainServlet</servlet-name>
         <servlet-name>ua.com.juja.sqlcmd.controller.web.MainServlet</servlet-name>
